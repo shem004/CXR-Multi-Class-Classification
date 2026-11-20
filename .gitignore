@@ -1,0 +1,19 @@
+# data and outputs (not in the repo)
+data/
+processed_data/
+proc*/
+work/
+ckpt/
+report_figures/
+*.zip
+*.pt
+*.pth
+*.npy
+*.log
+submission*.csv
+test_data_sample.csv
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
